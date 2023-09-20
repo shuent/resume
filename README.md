@@ -57,14 +57,14 @@ Rails でバックエンドを開発。このときWeb開発に関し�
 ハッカソンにて、
 スマート募金 - 機械学習, IoTとWebを利用したインタラクティブな募金箱を発案/実装。
 筑波大のメンバーと参加し、発案, コンセプト,プレゼン, PM, 設計, モックアップ作成を担当した。
-参考: https://github.com/jphacks/C_2105
+- 参考: https://github.com/jphacks/C_2105
 
 ### Kpick アプリ開発 
 2020/08
 
 Kpop推しのニュース検索・保存モバイルアプリ 
 好きなアーティストを保存し、そのアーティストに基づくニュースを表示、保存、タイムラインを保存できるアプリを作成。デザインはマルイのプログラムを一緒にやった友人に任せ、Flutterでクロスプラットフォームの実装 をしました。
-参考: https://play.google.com/store/apps/details?id=com.shunkei.kpop_news_app
+- 参考: https://play.google.com/store/apps/details?id=com.shunkei.kpop_news_app
 
 ### Nyle Hackathon in Tsukuba 2021 特別賞  
 2021/07
@@ -72,7 +72,7 @@ Kpop推しのニュース検索・保存モバイルアプリ
 株式会社Nyleが開催した3日間のハッカソンにおいて、
 Medivery - 一人暮らしで体調が悪い時に一般医薬品と食べ物を届けてくれる、医療版Ubereatsを開発した。
 全員初対面の中、開発を主導した。経験の差がある中で役割を分けて効率をよく開発するのは難しかったがなんとか達成できた。実装はバックエンドレスな構成で、 Firebase と Next.jsを利用して開発した。
-github: https://github.com/shuent/aoba_medivery
+- github: https://github.com/shuent/aoba_medivery
 
 ### Bamboo Space Project 
 2017/08
@@ -84,8 +84,8 @@ ICUに在学中に、多様な大学生が集まる寮生たちと、福岡�
 2023/08
 
 Next.js 13 + Supabase でWebアプリを開発。ひとり用のSlack, Twitterのように、作業ログを時系列に記録できる。
-Qiita 記事: https://qiita.com/shuent/items/1b05322e4f7556875e93
-Web: https://hashlog.vercel.app/
+- Qiita 記事: https://qiita.com/shuent/items/1b05322e4f7556875e93
+- Web: https://hashlog.vercel.app/
 
 ### chrome 拡張機能 - Twitterの反応 
 2018/12
